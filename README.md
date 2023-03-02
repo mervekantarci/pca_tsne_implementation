@@ -11,11 +11,15 @@ This repository includes different plots to visualize:
 - 2D projections of samples (PCA and t-SNE)
 - Reconstructed image (PCA)
 
+Example plots;
+
+![alt text](https://github.com/mervekantarci/pca_tsne_implementation/blob/main/projected_pca_plot.png?raw=true)
+![alt text](https://github.com/mervekantarci/pca_tsne_implementation/blob/main/projected_tsne_plot.png?raw=true)
 
 
 ## References
 <a id="1">[1]</a> 
 LeCun, Y., Cortes, C. and Burges, C.J.C. (1998) The MNIST Database of Handwritten Digits. New York, USA. http://yann.lecun.com/exdb/mnist/
 
-<a id="1">[2]</a> 
+<a id="2">[2]</a> 
 https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_lfw_people.html
